@@ -4,7 +4,7 @@ goodluck!!!
 # Najihah Binti Zulkarnail
 
 👩‍🎓 **Student at UCTATI**  
-📍 **Location**: [Your location]  
+📍 **Location**: [Kemaman]  
 🧑‍💻 **Tech Enthusiast | Developer | Aspiring Software Engineer**
 
 ---
