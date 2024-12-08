@@ -26,8 +26,8 @@ I love learning and collaborating with others on exciting projects. I'm always o
 ---
 
 ### My Projects:
-- [Project Name 1](link-to-project): Short description of the project.
-- [Project Name 2](link-to-project): Short description of the project.
+- [Project Name 1](link-to-project): LifeLog
+- [Project Name 2](link-to-project): docMy
 
 ---
 
